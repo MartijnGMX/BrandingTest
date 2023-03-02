@@ -1,0 +1,19 @@
+{
+	"brandPackageReferenceList": [
+		{
+			"id": "psv",
+			"uri": "https://martijngmx.github.io/BrandingTest/psv.zip?v4",
+			"enabled": true
+		},
+		{
+			"id": "virgin",
+			"uri": "https://martijngmx.github.io/BrandingTest/virgin.zip?v5",
+			"enabled": true
+		},
+		{
+			"id": "kpn",
+			"uri": "https://martijngmx.github.io/BrandingTest/kpn.zip?v4",
+			"enabled": true
+		}
+	]
+}
